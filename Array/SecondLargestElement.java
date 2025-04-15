@@ -1,5 +1,3 @@
-package Array;
-
 /*
 second largest in an array
 you have been given a random integer array(arr) of size N,you have requested
@@ -10,7 +8,7 @@ i.e -2^31
 ==> 9,3,6,2,9 ans=>6
 ==> 6,6,6,6,6,6 ans=> -2^31
 */
-
+package Array;
 import java.util.Arrays;
 
 public class SecondLargestElement {
