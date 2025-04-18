@@ -1,1 +1,3 @@
 List of all string programs
+1=>check palindrome
+2=>check permutations of string
