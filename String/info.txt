@@ -5,3 +5,5 @@ List of all string programs
 4=>expand the string
 5=>compress the string
 6=>check pangram
+7=>Evaluate expression
+8=>candy crush
