@@ -4,3 +4,4 @@ List of all string programs
 3=>print all substrings of strings
 4=>expand the string
 5=>compress the string
+6=>check pangram
