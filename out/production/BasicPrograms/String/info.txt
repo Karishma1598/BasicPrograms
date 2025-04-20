@@ -8,3 +8,5 @@ List of all string programs
 7=>Evaluate expression
 8=>candy crush
 9=>Long Pressed Name (Leetcode 925)
+10=> Check palindrome(Leetcode 125)
+11=>String to integer(Leetcode 08)
