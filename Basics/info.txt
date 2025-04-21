@@ -4,3 +4,4 @@ List of all basic programs
 3=>Simple Interest
 4=>Compound Interest
 5=>Fahrenheit To Celsius
+6=>Even or odd
