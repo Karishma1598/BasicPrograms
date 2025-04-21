@@ -3,3 +3,4 @@ List of all basic programs
 2=>swap three numbers
 3=>Simple Interest
 4=>Compound Interest
+5=>Fahrenheit To Celsius
