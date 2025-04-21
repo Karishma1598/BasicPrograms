@@ -1,3 +1,5 @@
 List of all basic programs
 1=>swap two numbers
 2=>swap three numbers
+3=>Simple Interest
+4=>Compound Interest
