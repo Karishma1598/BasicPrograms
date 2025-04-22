@@ -11,3 +11,4 @@ List of all basic programs
 10=>Greatest of three
 11=>sum of odd numbers
 12=>Factorial of a number
+13=>sum of digits
