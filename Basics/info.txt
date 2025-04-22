@@ -6,3 +6,7 @@ List of all basic programs
 5=>Fahrenheit To Celsius
 6=>Even or odd
 7=>Leap year
+8=>Multiplication Table
+9=>Positive,Negative or Zero
+10=>Greatest of three
+11=>sum of odd numbers
