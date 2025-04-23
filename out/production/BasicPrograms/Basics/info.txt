@@ -1,6 +1,6 @@
 List of all basic programs
-1=>swap two numbers
-2=>swap three numbers
+1=>Swap two numbers
+2=>Swap three numbers
 3=>Simple Interest
 4=>Compound Interest
 5=>Fahrenheit To Celsius
@@ -9,8 +9,11 @@ List of all basic programs
 8=>Multiplication Table
 9=>Positive,Negative or Zero
 10=>Greatest of three
-11=>sum of odd numbers
+11=>Sum of odd numbers
 12=>Factorial of a number
-13=>sum of digits
+13=>Sum of digits
 14=>LCM
 15=>HCM
+16=>Reverse number
+17=>Palindrome
+18=>Prime number

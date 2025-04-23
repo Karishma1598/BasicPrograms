@@ -16,3 +16,4 @@ List of all basic programs
 15=>HCM
 16=>Reverse number
 17=>Palindrome
+18=>Prime number
