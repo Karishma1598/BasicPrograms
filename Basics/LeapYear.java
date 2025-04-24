@@ -1,3 +1,4 @@
+//Some leap years are=> 2024,2020,2000,1600,2016
 package Basics;
 
 import java.util.Scanner;

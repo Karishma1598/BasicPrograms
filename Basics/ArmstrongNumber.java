@@ -1,3 +1,5 @@
+//Armstrong nos => 153, 370, 371, 407, 9474
+
 package Basics;
 
 import java.util.Scanner;

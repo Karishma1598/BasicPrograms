@@ -17,3 +17,5 @@ List of all basic programs
 16=>Reverse number
 17=>Palindrome
 18=>Prime number
+19=>Fibonacii series
+20=>Armstrong number
