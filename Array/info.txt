@@ -1,3 +1,4 @@
 List of all array programs
 1=>Array Utility class
 2=>Sum and Avg of array
+3=>Occurance of particular number in array
