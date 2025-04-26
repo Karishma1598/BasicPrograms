@@ -5,3 +5,5 @@ List of all array programs
 4=>Max and Min element of an array
 5=>Is array is sorted or not
 6=>Delete from array
+7=>Reverse an array
+8=>Array is palindrome or not
