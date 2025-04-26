@@ -1,4 +1,7 @@
 List of all array programs
 1=>Array Utility class
 2=>Sum and Avg of array
-3=>Occurance of particular number in array
+3=>Occurrence of particular number in array
+4=>Max and Min element of an array
+5=>Is array is sorted or not
+6=>Delete from array
