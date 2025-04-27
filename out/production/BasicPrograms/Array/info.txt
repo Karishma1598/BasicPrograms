@@ -7,3 +7,4 @@ List of all array programs
 6=>Delete from array
 7=>Reverse an array
 8=>Array is palindrome or not
+9=>Merge two sorted array
