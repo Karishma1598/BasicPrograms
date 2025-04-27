@@ -8,3 +8,10 @@ List of all array programs
 7=>Reverse an array
 8=>Array is palindrome or not
 9=>Merge two sorted array
+10=>Second-largest element of array
+11=>Swap alternate pairs
+12=>Pair sum
+13=>Sort zero's and one's
+14=>Sort Zero's,one's and two's
+15=>Find Duplicates
+
