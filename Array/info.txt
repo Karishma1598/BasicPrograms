@@ -14,4 +14,6 @@ List of all array programs
 13=>Sort zero's and one's
 14=>Sort Zero's,one's and two's
 15=>Find Duplicates
+16=>Missing ele in array
+17=>Missing element 2
 
