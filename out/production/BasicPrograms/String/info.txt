@@ -1,12 +1,14 @@
 List of all string programs
-1=>check palindrome
-2=>check permutations of string
-3=>print all substrings of strings
-4=>expand the string
-5=>compress the string
-6=>check pangram
+1=>Palindrome
+2=>Check permutations of string
+3=>Print all substrings of strings
+4=>Expand the string
+5=>Compress the string
+6=>Check pangram
 7=>Evaluate expression
-8=>candy crush
+8=>Candy crush
 9=>Long Pressed Name (Leetcode 925)
-10=> Check palindrome(Leetcode 125)
+10=>Check palindrome(Leetcode 125)
 11=>String to integer(Leetcode 08)
+12=>ReverseString
+13=>Occuarance of each Ele of String
