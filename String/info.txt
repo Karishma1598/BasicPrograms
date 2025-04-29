@@ -11,4 +11,5 @@ List of all string programs
 10=>Check palindrome(Leetcode 125)
 11=>String to integer(Leetcode 08)
 12=>ReverseString
-13=>Occuarance of each Ele of String
+13=>Occurrence of each Ele of String
+14=>
