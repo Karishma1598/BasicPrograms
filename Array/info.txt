@@ -16,4 +16,5 @@ List of all array programs
 15=>Find Duplicates
 16=>Missing ele in array
 17=>Missing element 2
+18=>Sum of diagonals of 2D Array
 
