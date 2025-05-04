@@ -2,7 +2,7 @@ package String;
 
 public class Palindrome1 {
     public static void main(String[] args) {
-        String str="Ngaman";
+        String str="Naman";
         String rstr="";
         char ch;
         for (int i=0;i<str.length();i++){
