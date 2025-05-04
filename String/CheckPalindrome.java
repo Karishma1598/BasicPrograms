@@ -26,7 +26,7 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 package String;
 
 public class CheckPalindrome {
-    public static boolean ispalindrome(String s){
+    public static boolean isPalindrome(String s){
         StringBuffer sb=new StringBuffer();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
@@ -45,9 +45,9 @@ public class CheckPalindrome {
         return true;
     }
     public static void main(String[] args) {
-        System.out.println(ispalindrome("A man, a plan, a canal: Panama"));
-        System.out.println(ispalindrome(""));
-        System.out.println(ispalindrome("race a car"));
+        System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
+        System.out.println(isPalindrome(""));
+        System.out.println(isPalindrome("race a car"));
 
     }
 }
