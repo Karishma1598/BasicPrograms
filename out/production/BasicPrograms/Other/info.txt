@@ -1,2 +1,3 @@
 List of all programs
 1=>Generate Mobile Number
+2=>FizzBuzz
