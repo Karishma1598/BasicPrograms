@@ -23,3 +23,4 @@ List of all basic programs
 22=>Find Grade of a Students
 23=>Print Alphabets and Digits
 24=>Count no of digits
+25=>Calculator using switch
