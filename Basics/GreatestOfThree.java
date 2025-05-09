@@ -3,7 +3,7 @@ package Basics;
 import java.util.Scanner;
 
 public class GreatestOfThree {
-    public static void main(String[] args) {
+    public static void greaterOfThree(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the 1st number");
         int num1=sc.nextInt();
@@ -20,5 +20,8 @@ public class GreatestOfThree {
             System.out.println("number 2 i.e "+num2+" is greatest");
         else
             System.out.println("number 3 i.e "+num3+" is greatest");
+    }
+    public static void main(String[] args) {
+        greaterOfThree();
     }
 }

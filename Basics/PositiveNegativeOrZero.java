@@ -3,7 +3,7 @@ package Basics;
 import java.util.Scanner;
 
 public class PositiveNegativeOrZero {
-    public static void main(String[] args) {
+    public static void findState(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number");
         int num=sc.nextInt();
@@ -14,5 +14,8 @@ public class PositiveNegativeOrZero {
         }else {
             System.out.println("Number is zero");
         }
+    }
+    public static void main(String[] args) {
+        findState();
     }
 }

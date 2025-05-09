@@ -3,7 +3,7 @@ package Basics;
 import java.util.Scanner;
 
 public class FindGrades {
-    public static void main(String[] args) {
+    public static void findGrades(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter your percentage");
         float per=sc.nextFloat();
@@ -19,5 +19,8 @@ public class FindGrades {
         }else {
             System.out.println("You have failed the exam");
         }
+    }
+    public static void main(String[] args) {
+        findGrades();
     }
 }

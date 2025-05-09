@@ -3,7 +3,7 @@ package Basics;
 import java.util.Scanner;
 
 public class SumOfOddNumbers {
-    public static void main(String[] args) {
+    public static void sum(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number ");
         int num=sc.nextInt();
@@ -14,5 +14,8 @@ public class SumOfOddNumbers {
                 sum=sum+i;
         }
         System.out.println("Sum ="+sum);
+    }
+    public static void main(String[] args) {
+        sum();
     }
 }
