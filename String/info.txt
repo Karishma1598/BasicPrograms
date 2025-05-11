@@ -15,3 +15,4 @@ List of all string programs
 14=>Occurrence of each Ele of String
 15=>First non-repeating character of string
 16=>Count the number of words in string
+17=>print each word
